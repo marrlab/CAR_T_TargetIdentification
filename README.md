@@ -1,6 +1,6 @@
 # Computational identification of targets for CAR-T cell therapy in AML
 
-This repository contains all scripts to reproduce the results of the single-cell data from: 
+This repository contains all jupyter notebooks to reproduce the results of the single-cell data from: 
 
 A. Gottschlich, M. Thomas, R. Grünmeier et al., "Single-cell transcriptomic atlas-guided development of chimeric antigen-receptor (CAR) T cells for the treatment of acute myeloid leukemia", Nature Biotechnology (2023).
 
